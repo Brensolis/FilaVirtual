@@ -1,0 +1,627 @@
+{
+  "name": "login",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "YhPkCOZYDj3xOmhbFlZbWD",
+    "node": "51:2",
+    "version": "3503320031",
+    "component-id": "751a7d3a6bf4f5ad35317adfc837875851840347"
+  },
+  "default": "LOGIN",
+  "documentation": "Pantalla de Login, para entrar con las credenciales o hacer el registro correspondiente",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "image",
+        "id": "004686146429a48162357cd7e295acf1-school-bus-trip-color-stroke-trazo-de-color-de-viaje-en-autobus-escolar-traco-de-cor-de-viagem-de-onibus-escolar-schulbusfahrt-farbstrich 1"
+      },
+      {
+        "type": "text",
+        "id": "Inicia sesión o registrate"
+      },
+      {
+        "type": "group",
+        "id": "box_contraseña"
+      },
+      {
+        "type": "group",
+        "id": "box_codigo"
+      },
+      {
+        "type": "group",
+        "id": "btn_iniciosesion"
+      },
+      {
+        "type": "group",
+        "id": "btn_resgistro"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 6"
+      },
+      {
+        "type": "text",
+        "id": "Ingresa tu contraseña"
+      },
+      {
+        "type": "group",
+        "id": "bx-lock 1"
+      },
+      {
+        "type": "vector",
+        "id": "Vector"
+      },
+      {
+        "type": "group",
+        "id": "box_codigo1"
+      },
+      {
+        "type": "group",
+        "id": "bx-id-card 1"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 7"
+      },
+      {
+        "type": "text",
+        "id": "Ingresa tu código de estudiante"
+      },
+      {
+        "type": "vector",
+        "id": "Vector1"
+      },
+      {
+        "type": "vector",
+        "id": "Vector2"
+      },
+      {
+        "type": "vector",
+        "id": "Vector3"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 8"
+      },
+      {
+        "type": "text",
+        "id": "Iniciar sesión"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 9"
+      },
+      {
+        "type": "text",
+        "id": "Registrarse"
+      }
+    ],
+    "modes": {
+      "LOGIN": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "004686146429a48162357cd7e295acf1-school-bus-trip-color-stroke-trazo-de-color-de-viaje-en-autobus-escolar-traco-de-cor-de-viagem-de-onibus-escolar-schulbusfahrt-farbstrich 1",
+              "Inicia sesión o registrate",
+              "box_contraseña",
+              "box_codigo",
+              "btn_iniciosesion",
+              "btn_resgistro"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            }
+          },
+          {
+            "id": "004686146429a48162357cd7e295acf1-school-bus-trip-color-stroke-trazo-de-color-de-viaje-en-autobus-escolar-traco-de-cor-de-viagem-de-onibus-escolar-schulbusfahrt-farbstrich 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "32.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "296.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "296.0"
+              }
+            },
+            "image-content": "004686146429a48162357cd7e295acf1_school_bus_trip_color_stroke_trazo_de_color_de_viaje_en_autobus_escolar_traco_de_cor_de_viagem_de_onibus_escolar_schulbusfahrt_farbstrich_1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Inicia sesión o registrate",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "42.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "296.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "3.9252336448598126",
+              "saturation": "0.9385964912280701",
+              "value": "0.4470588235294118"
+            },
+            "text-content": "Inicia sesión o registrate",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "24.0",
+            "line-height": "1.2102272510528564",
+            "typeface": "Inter"
+          },
+          {
+            "id": "box_contraseña",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "417.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 6",
+              "Ingresa tu contraseña",
+              "bx-lock 1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "box_codigo",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "361.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "box_codigo1",
+              "bx-id-card 1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "btn_iniciosesion",
+            "border-radius": "10.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "488.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 8",
+              "Iniciar sesión"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "btn_resgistro",
+            "border-radius": "10.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "544.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 9",
+              "Registrarse"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Rectangle 6",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "vector-content": "rectangle_6.svg"
+          },
+          {
+            "id": "Ingresa tu contraseña",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "40.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "10.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Ingresa tu contraseña",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2102272510528564",
+            "typeface": "Inter"
+          },
+          {
+            "id": "bx-lock 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "8.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "8.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector"
+            ]
+          },
+          {
+            "id": "Vector",
+            "margin": {
+              "left": "4.0",
+              "top": "2.0",
+              "right": "4.0",
+              "bottom": "2.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector.svg"
+          },
+          {
+            "id": "box_codigo1",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 7",
+              "Ingresa tu código de estudiante"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "bx-id-card 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "7.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "8.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector1",
+              "Vector2",
+              "Vector3"
+            ]
+          },
+          {
+            "id": "Rectangle 7",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "vector-content": "rectangle_7.svg"
+          },
+          {
+            "id": "Ingresa tu código de estudiante",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "40.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "10.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Ingresa tu código de estudiante",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2102272510528564",
+            "typeface": "Inter"
+          },
+          {
+            "id": "Vector1",
+            "margin": {
+              "left": "7.714996337890625",
+              "top": "8.0",
+              "right": "12.285003662109375",
+              "bottom": "12.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector1.svg"
+          },
+          {
+            "id": "Vector2",
+            "margin": {
+              "left": "2.0",
+              "top": "4.0",
+              "right": "2.0",
+              "bottom": "4.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector2.svg"
+          },
+          {
+            "id": "Vector3",
+            "margin": {
+              "left": "6.0",
+              "top": "9.0",
+              "right": "6.0",
+              "bottom": "8.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector3.svg"
+          },
+          {
+            "id": "Rectangle 8",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "vector-content": "rectangle_8.svg"
+          },
+          {
+            "id": "Iniciar sesión",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "90.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "5.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Iniciar sesión",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "24.0",
+            "line-height": "1.2102272510528564",
+            "typeface": "Inter"
+          },
+          {
+            "id": "Rectangle 9",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "vector-content": "rectangle_9.svg"
+          },
+          {
+            "id": "Registrarse",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "99.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "5.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Registrarse",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "24.0",
+            "line-height": "1.2102272510528564",
+            "typeface": "Inter"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "LOGIN",
+      "size": {
+        "width": 360.0,
+        "height": 640.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

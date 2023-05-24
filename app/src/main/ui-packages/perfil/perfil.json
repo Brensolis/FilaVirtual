@@ -1,0 +1,853 @@
+{
+  "name": "perfil",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "YhPkCOZYDj3xOmhbFlZbWD",
+    "node": "51:26",
+    "version": "3503320031",
+    "component-id": "883c909648f7df35c5ef83d87486ba8f9bb9422a"
+  },
+  "default": "PERFIL",
+  "documentation": "Ventana donde se mostrara la información del usuario y poder editar si se requiere",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 9"
+      },
+      {
+        "type": "text",
+        "id": "Editar"
+      },
+      {
+        "type": "text",
+        "id": "Usuario"
+      },
+      {
+        "type": "group",
+        "id": "undraw_male_avatar_g98d 1"
+      },
+      {
+        "type": "group",
+        "id": "bx-chevron-left 1"
+      },
+      {
+        "type": "group",
+        "id": "Group 1"
+      },
+      {
+        "type": "group",
+        "id": "Group 2"
+      },
+      {
+        "type": "group",
+        "id": "Group 3"
+      },
+      {
+        "type": "group",
+        "id": "Group 4"
+      },
+      {
+        "type": "group",
+        "id": "Group 5"
+      },
+      {
+        "type": "vector",
+        "id": "Vector"
+      },
+      {
+        "type": "vector",
+        "id": "Vector1"
+      },
+      {
+        "type": "vector",
+        "id": "Vector2"
+      },
+      {
+        "type": "vector",
+        "id": "Vector3"
+      },
+      {
+        "type": "vector",
+        "id": "Vector4"
+      },
+      {
+        "type": "vector",
+        "id": "Vector5"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 13"
+      },
+      {
+        "type": "text",
+        "id": "Código alumno"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 14"
+      },
+      {
+        "type": "text",
+        "id": "Contraseña"
+      },
+      {
+        "type": "group",
+        "id": "bx-edit-alt 1"
+      },
+      {
+        "type": "vector",
+        "id": "Vector6"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 15"
+      },
+      {
+        "type": "text",
+        "id": "Nombre"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 16"
+      },
+      {
+        "type": "text",
+        "id": "Municipio"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 17"
+      },
+      {
+        "type": "text",
+        "id": "Teléfono"
+      },
+      {
+        "type": "group",
+        "id": "bx-edit-alt 2"
+      },
+      {
+        "type": "vector",
+        "id": "Vector7"
+      }
+    ],
+    "modes": {
+      "PERFIL": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Rectangle 9",
+              "Editar",
+              "Usuario",
+              "undraw_male_avatar_g98d 1",
+              "bx-chevron-left 1",
+              "Group 1",
+              "Group 2",
+              "Group 3",
+              "Group 4",
+              "Group 5"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            }
+          },
+          {
+            "id": "Rectangle 9",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "360.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "160.0"
+              }
+            },
+            "vector-content": "rectangle_9.svg"
+          },
+          {
+            "id": "Editar",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "157.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "132.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Editar",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2102272510528564",
+            "typeface": "Inter"
+          },
+          {
+            "id": "Usuario",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "136.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "8.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Usuario",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "24.0",
+            "line-height": "1.2102272510528564",
+            "typeface": "Inter"
+          },
+          {
+            "id": "undraw_male_avatar_g98d 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "140.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "40.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "80.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "80.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector",
+              "Vector1",
+              "Vector2",
+              "Vector3",
+              "Vector4"
+            ]
+          },
+          {
+            "id": "bx-chevron-left 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "16.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector5"
+            ]
+          },
+          {
+            "id": "Group 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "192.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "48.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 13",
+              "Código alumno"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "15.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "272.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "48.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 14",
+              "Contraseña",
+              "bx-edit-alt 1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 3",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "14.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "352.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "48.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 15",
+              "Nombre"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 4",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "13.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "432.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "48.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 16",
+              "Municipio"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 5",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "12.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "512.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "48.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 17",
+              "Teléfono",
+              "bx-edit-alt 2"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Vector",
+            "margin": {
+              "left": "27.73095703125",
+              "top": "26.25341796875",
+              "right": "26.2994384765625",
+              "bottom": "27.7769775390625"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector.svg"
+          },
+          {
+            "id": "Vector1",
+            "margin": {
+              "left": "30.70526123046875",
+              "top": "46.02288818359375",
+              "right": "28.6932373046875",
+              "bottom": "3.3004150390625"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector1.svg"
+          },
+          {
+            "id": "Vector2",
+            "margin": {
+              "left": "26.08685302734375",
+              "top": "22.435272216796875",
+              "right": "27.725830078125",
+              "bottom": "28.23980712890625"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector2.svg"
+          },
+          {
+            "id": "Vector3",
+            "margin": {
+              "left": "16.7489013671875",
+              "top": "56.147369384765625",
+              "right": "14.86309814453125"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector3.svg"
+          },
+          {
+            "id": "Vector4",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector4.svg"
+          },
+          {
+            "id": "Vector5",
+            "margin": {
+              "left": "12.643310546875",
+              "top": "10.48834228515625",
+              "right": "15.48834228515625",
+              "bottom": "10.488311767578125"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector5.svg"
+          },
+          {
+            "id": "Rectangle 13",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "48.0"
+              }
+            },
+            "vector-content": "rectangle_13.svg"
+          },
+          {
+            "id": "Código alumno",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "32.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "9.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Código alumno ",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "24.0",
+            "line-height": "1.2102272510528564",
+            "typeface": "Inter"
+          },
+          {
+            "id": "Rectangle 14",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "48.0"
+              }
+            },
+            "vector-content": "rectangle_14.svg"
+          },
+          {
+            "id": "Contraseña",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "32.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "9.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Contraseña",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "24.0",
+            "line-height": "1.2102272510528564",
+            "typeface": "Inter"
+          },
+          {
+            "id": "bx-edit-alt 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "288.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "8.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector6"
+            ]
+          },
+          {
+            "id": "Vector6",
+            "margin": {
+              "left": "5.33331298828125",
+              "top": "3.20135498046875",
+              "right": "5.3333740234375",
+              "bottom": "2.6666259765625"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector6.svg"
+          },
+          {
+            "id": "Rectangle 15",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "48.0"
+              }
+            },
+            "vector-content": "rectangle_15.svg"
+          },
+          {
+            "id": "Nombre",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "32.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "9.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Nombre ",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "24.0",
+            "line-height": "1.2102272510528564",
+            "typeface": "Inter"
+          },
+          {
+            "id": "Rectangle 16",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "48.0"
+              }
+            },
+            "vector-content": "rectangle_16.svg"
+          },
+          {
+            "id": "Municipio",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "32.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "9.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Municipio ",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "24.0",
+            "line-height": "1.2102272510528564",
+            "typeface": "Inter"
+          },
+          {
+            "id": "Rectangle 17",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "48.0"
+              }
+            },
+            "vector-content": "rectangle_17.svg"
+          },
+          {
+            "id": "Teléfono",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "32.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "9.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Teléfono ",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "24.0",
+            "line-height": "1.2102272510528564",
+            "typeface": "Inter"
+          },
+          {
+            "id": "bx-edit-alt 2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "288.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "8.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector7"
+            ]
+          },
+          {
+            "id": "Vector7",
+            "margin": {
+              "left": "5.33331298828125",
+              "top": "3.20135498046875",
+              "right": "5.3333740234375",
+              "bottom": "2.6666259765625"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector7.svg"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "PERFIL",
+      "size": {
+        "width": 360.0,
+        "height": 640.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

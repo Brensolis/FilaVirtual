@@ -1,0 +1,940 @@
+{
+  "name": "registro",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "YhPkCOZYDj3xOmhbFlZbWD",
+    "node": "51:6",
+    "version": "3503320031",
+    "component-id": "e379fee9b8d4d7c128ce9594b5b9a68b44eea762"
+  },
+  "default": "REGISTRO",
+  "documentation": "Ventana para hacer el registro correspondiente del usuario",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "image",
+        "id": "004686146429a48162357cd7e295acf1-school-bus-trip-color-stroke-trazo-de-color-de-viaje-en-autobus-escolar-traco-de-cor-de-viagem-de-onibus-escolar-schulbusfahrt-farbstrich 1"
+      },
+      {
+        "type": "text",
+        "id": "Usuario Nuevo"
+      },
+      {
+        "type": "group",
+        "id": "box_codigo"
+      },
+      {
+        "type": "group",
+        "id": "box_contraseña"
+      },
+      {
+        "type": "group",
+        "id": "box_confcontra"
+      },
+      {
+        "type": "group",
+        "id": "box_nombre"
+      },
+      {
+        "type": "group",
+        "id": "box_apellidos"
+      },
+      {
+        "type": "group",
+        "id": "box_telefono"
+      },
+      {
+        "type": "group",
+        "id": "btn_registro"
+      },
+      {
+        "type": "text",
+        "id": "Ingresa tus datos"
+      },
+      {
+        "type": "group",
+        "id": "btn_municipio"
+      },
+      {
+        "type": "group",
+        "id": "bx-chevron-left 2"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 8"
+      },
+      {
+        "type": "text",
+        "id": "Código alumno"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 9"
+      },
+      {
+        "type": "text",
+        "id": "Contraseña"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 10"
+      },
+      {
+        "type": "text",
+        "id": "Confirma contraseña"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 11"
+      },
+      {
+        "type": "text",
+        "id": "Nombre"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 12"
+      },
+      {
+        "type": "text",
+        "id": "Apellidos"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 13"
+      },
+      {
+        "type": "text",
+        "id": "Teléfono"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 7"
+      },
+      {
+        "type": "text",
+        "id": "Registrarse"
+      },
+      {
+        "type": "group",
+        "id": "box_municipio"
+      },
+      {
+        "type": "group",
+        "id": "bxs-down-arrow 1"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 14"
+      },
+      {
+        "type": "text",
+        "id": "Municipio"
+      },
+      {
+        "type": "vector",
+        "id": "Vector"
+      },
+      {
+        "type": "vector",
+        "id": "Vector1"
+      }
+    ],
+    "modes": {
+      "REGISTRO": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "004686146429a48162357cd7e295acf1-school-bus-trip-color-stroke-trazo-de-color-de-viaje-en-autobus-escolar-traco-de-cor-de-viagem-de-onibus-escolar-schulbusfahrt-farbstrich 1",
+              "Usuario Nuevo",
+              "box_codigo",
+              "box_contraseña",
+              "box_confcontra",
+              "box_nombre",
+              "box_apellidos",
+              "box_telefono",
+              "btn_registro",
+              "Ingresa tus datos",
+              "btn_municipio",
+              "bx-chevron-left 2"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            }
+          },
+          {
+            "id": "004686146429a48162357cd7e295acf1-school-bus-trip-color-stroke-trazo-de-color-de-viaje-en-autobus-escolar-traco-de-cor-de-viagem-de-onibus-escolar-schulbusfahrt-farbstrich 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "224.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "120.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "120.0"
+              }
+            },
+            "image-content": "004686146429a48162357cd7e295acf1_school_bus_trip_color_stroke_trazo_de_color_de_viaje_en_autobus_escolar_traco_de_cor_de_viagem_de_onibus_escolar_schulbusfahrt_farbstrich_1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Usuario Nuevo",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "24.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "54.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Usuario Nuevo",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "24.0",
+            "line-height": "1.2102272510528564",
+            "typeface": "Inter"
+          },
+          {
+            "id": "box_codigo",
+            "border-radius": "10.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "184.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 8",
+              "Código alumno"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "box_contraseña",
+            "border-radius": "10.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "240.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 9",
+              "Contraseña"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "box_confcontra",
+            "border-radius": "10.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "296.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 10",
+              "Confirma contraseña"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "box_nombre",
+            "border-radius": "10.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "352.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 11",
+              "Nombre"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "box_apellidos",
+            "border-radius": "10.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "408.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 12",
+              "Apellidos"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "box_telefono",
+            "border-radius": "10.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "520.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 13",
+              "Teléfono"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "btn_registro",
+            "border-radius": "10.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "576.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 7",
+              "Registrarse"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Ingresa tus datos",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "81.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "136.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "3.9252336448598126",
+              "saturation": "0.9385964912280701",
+              "value": "0.4470588235294118"
+            },
+            "text-content": "Ingresa tus datos",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "24.0",
+            "line-height": "1.2102272510528564",
+            "typeface": "Inter"
+          },
+          {
+            "id": "btn_municipio",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "464.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "box_municipio",
+              "bxs-down-arrow 1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "bx-chevron-left 2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "8.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector1"
+            ]
+          },
+          {
+            "id": "Rectangle 8",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "vector-content": "rectangle_8.svg"
+          },
+          {
+            "id": "Código alumno",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "10.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Código alumno",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2102272510528564",
+            "typeface": "Inter"
+          },
+          {
+            "id": "Rectangle 9",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "vector-content": "rectangle_9.svg"
+          },
+          {
+            "id": "Contraseña",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "10.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Contraseña",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2102272510528564",
+            "typeface": "Inter"
+          },
+          {
+            "id": "Rectangle 10",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "vector-content": "rectangle_10.svg"
+          },
+          {
+            "id": "Confirma contraseña",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "10.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Confirma contraseña",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2102272510528564",
+            "typeface": "Inter"
+          },
+          {
+            "id": "Rectangle 11",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "vector-content": "rectangle_11.svg"
+          },
+          {
+            "id": "Nombre",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "10.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Nombre",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2102272510528564",
+            "typeface": "Inter"
+          },
+          {
+            "id": "Rectangle 12",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "vector-content": "rectangle_12.svg"
+          },
+          {
+            "id": "Apellidos",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "10.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Apellidos",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2102272510528564",
+            "typeface": "Inter"
+          },
+          {
+            "id": "Rectangle 13",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "vector-content": "rectangle_13.svg"
+          },
+          {
+            "id": "Teléfono",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "10.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Teléfono",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2102272510528564",
+            "typeface": "Inter"
+          },
+          {
+            "id": "Rectangle 7",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "vector-content": "rectangle_7.svg"
+          },
+          {
+            "id": "Registrarse",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "99.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "5.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Registrarse",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "24.0",
+            "line-height": "1.2102272510528564",
+            "typeface": "Inter"
+          },
+          {
+            "id": "box_municipio",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 14",
+              "Municipio"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "bxs-down-arrow 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "296.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "8.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector"
+            ]
+          },
+          {
+            "id": "Rectangle 14",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "vector-content": "rectangle_14.svg"
+          },
+          {
+            "id": "Municipio",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "10.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Municipio",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2102272510528564",
+            "typeface": "Inter"
+          },
+          {
+            "id": "Vector",
+            "margin": {
+              "left": "2.00213623046875",
+              "top": "5.0",
+              "right": "1.99945068359375",
+              "bottom": "3.99896240234375"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector.svg"
+          },
+          {
+            "id": "Vector1",
+            "margin": {
+              "left": "12.643325805664062",
+              "top": "10.48834228515625",
+              "right": "15.48834228515625",
+              "bottom": "10.488311767578125"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector1.svg"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "REGISTRO",
+      "size": {
+        "width": 360.0,
+        "height": 640.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

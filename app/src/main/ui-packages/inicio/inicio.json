@@ -1,0 +1,2327 @@
+{
+  "name": "inicio",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "YhPkCOZYDj3xOmhbFlZbWD",
+    "node": "51:10",
+    "version": "3503320031",
+    "component-id": "7b61880237be4dc44132d65c1897a908c350c251"
+  },
+  "default": "INICIO",
+  "documentation": "Ventana de inicio después de haber ingresado con las credenciales correspondientes, para hacer la selección de la comunidad correspondiente para la ruta del camión a elegir ",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 9"
+      },
+      {
+        "type": "group",
+        "id": "bx-menu-alt-left 1"
+      },
+      {
+        "type": "text",
+        "id": "Bienvenido!"
+      },
+      {
+        "type": "text",
+        "id": "Hola, Usuario"
+      },
+      {
+        "type": "group",
+        "id": "undraw_male_avatar_g98d 1"
+      },
+      {
+        "type": "group",
+        "id": "btn_ameca"
+      },
+      {
+        "type": "group",
+        "id": "btn_ameca1"
+      },
+      {
+        "type": "group",
+        "id": "btn_ameca2"
+      },
+      {
+        "type": "group",
+        "id": "btn_ameca3"
+      },
+      {
+        "type": "group",
+        "id": "btn_ameca4"
+      },
+      {
+        "type": "group",
+        "id": "btn_sanmartin"
+      },
+      {
+        "type": "group",
+        "id": "btn_sanmartin1"
+      },
+      {
+        "type": "group",
+        "id": "btn_sanmartin2"
+      },
+      {
+        "type": "group",
+        "id": "btn_sanmartin3"
+      },
+      {
+        "type": "group",
+        "id": "btn_sanmartin4"
+      },
+      {
+        "type": "text",
+        "id": "Elige tu comunidad"
+      },
+      {
+        "type": "group",
+        "id": "bx-map-pin 1"
+      },
+      {
+        "type": "vector",
+        "id": "Vector"
+      },
+      {
+        "type": "vector",
+        "id": "Vector1"
+      },
+      {
+        "type": "vector",
+        "id": "Vector2"
+      },
+      {
+        "type": "vector",
+        "id": "Vector3"
+      },
+      {
+        "type": "vector",
+        "id": "Vector4"
+      },
+      {
+        "type": "vector",
+        "id": "Vector5"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 10"
+      },
+      {
+        "type": "text",
+        "id": "Ameca"
+      },
+      {
+        "type": "group",
+        "id": "bx-bus-school 1"
+      },
+      {
+        "type": "vector",
+        "id": "Vector6"
+      },
+      {
+        "type": "vector",
+        "id": "Vector7"
+      },
+      {
+        "type": "vector",
+        "id": "Vector8"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 11"
+      },
+      {
+        "type": "text",
+        "id": "Cocula"
+      },
+      {
+        "type": "group",
+        "id": "bx-bus-school 2"
+      },
+      {
+        "type": "vector",
+        "id": "Vector9"
+      },
+      {
+        "type": "vector",
+        "id": "Vector10"
+      },
+      {
+        "type": "vector",
+        "id": "Vector11"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 12"
+      },
+      {
+        "type": "text",
+        "id": "Etzatlán"
+      },
+      {
+        "type": "group",
+        "id": "bx-bus-school 3"
+      },
+      {
+        "type": "vector",
+        "id": "Vector12"
+      },
+      {
+        "type": "vector",
+        "id": "Vector13"
+      },
+      {
+        "type": "vector",
+        "id": "Vector14"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 13"
+      },
+      {
+        "type": "text",
+        "id": "Teuchitlán"
+      },
+      {
+        "type": "group",
+        "id": "bx-bus-school 4"
+      },
+      {
+        "type": "vector",
+        "id": "Vector15"
+      },
+      {
+        "type": "vector",
+        "id": "Vector16"
+      },
+      {
+        "type": "vector",
+        "id": "Vector17"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 14"
+      },
+      {
+        "type": "text",
+        "id": "Acatlán"
+      },
+      {
+        "type": "group",
+        "id": "bx-bus-school 5"
+      },
+      {
+        "type": "vector",
+        "id": "Vector18"
+      },
+      {
+        "type": "vector",
+        "id": "Vector19"
+      },
+      {
+        "type": "vector",
+        "id": "Vector20"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 15"
+      },
+      {
+        "type": "text",
+        "id": "San Martín"
+      },
+      {
+        "type": "group",
+        "id": "bx-bus-school 6"
+      },
+      {
+        "type": "vector",
+        "id": "Vector21"
+      },
+      {
+        "type": "vector",
+        "id": "Vector22"
+      },
+      {
+        "type": "vector",
+        "id": "Vector23"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 16"
+      },
+      {
+        "type": "text",
+        "id": "Tequila"
+      },
+      {
+        "type": "group",
+        "id": "bx-bus-school 7"
+      },
+      {
+        "type": "vector",
+        "id": "Vector24"
+      },
+      {
+        "type": "vector",
+        "id": "Vector25"
+      },
+      {
+        "type": "vector",
+        "id": "Vector26"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 17"
+      },
+      {
+        "type": "text",
+        "id": "Magdalena"
+      },
+      {
+        "type": "group",
+        "id": "bx-bus-school 8"
+      },
+      {
+        "type": "vector",
+        "id": "Vector27"
+      },
+      {
+        "type": "vector",
+        "id": "Vector28"
+      },
+      {
+        "type": "vector",
+        "id": "Vector29"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 18"
+      },
+      {
+        "type": "text",
+        "id": "Tala"
+      },
+      {
+        "type": "group",
+        "id": "bx-bus-school 9"
+      },
+      {
+        "type": "vector",
+        "id": "Vector30"
+      },
+      {
+        "type": "vector",
+        "id": "Vector31"
+      },
+      {
+        "type": "vector",
+        "id": "Vector32"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 19"
+      },
+      {
+        "type": "text",
+        "id": "Tecolotlán"
+      },
+      {
+        "type": "group",
+        "id": "bx-bus-school 10"
+      },
+      {
+        "type": "vector",
+        "id": "Vector33"
+      },
+      {
+        "type": "vector",
+        "id": "Vector34"
+      },
+      {
+        "type": "vector",
+        "id": "Vector35"
+      },
+      {
+        "type": "vector",
+        "id": "Vector36"
+      },
+      {
+        "type": "vector",
+        "id": "Vector37"
+      }
+    ],
+    "modes": {
+      "INICIO": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Rectangle 9",
+              "bx-menu-alt-left 1",
+              "Bienvenido!",
+              "Hola, Usuario",
+              "undraw_male_avatar_g98d 1",
+              "btn_ameca",
+              "btn_ameca1",
+              "btn_ameca2",
+              "btn_ameca3",
+              "btn_ameca4",
+              "btn_sanmartin",
+              "btn_sanmartin1",
+              "btn_sanmartin2",
+              "btn_sanmartin3",
+              "btn_sanmartin4",
+              "Elige tu comunidad",
+              "bx-map-pin 1"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            }
+          },
+          {
+            "id": "Rectangle 9",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "360.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "80.0"
+              }
+            },
+            "vector-content": "rectangle_9.svg"
+          },
+          {
+            "id": "bx-menu-alt-left 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "296.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "16.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "48.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "48.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector"
+            ]
+          },
+          {
+            "id": "Bienvenido!",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "80.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "16.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Bienvenido!",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2102272510528564",
+            "typeface": "Inter"
+          },
+          {
+            "id": "Hola, Usuario",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "80.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "40.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Hola, Usuario",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "24.0",
+            "line-height": "1.2102272510528564",
+            "typeface": "Inter"
+          },
+          {
+            "id": "undraw_male_avatar_g98d 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "24.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "20.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector1",
+              "Vector2",
+              "Vector3",
+              "Vector4",
+              "Vector5"
+            ]
+          },
+          {
+            "id": "btn_ameca",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "145.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "160.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "80.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 10",
+              "Ameca",
+              "bx-bus-school 1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "btn_ameca1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "233.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "160.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "80.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 11",
+              "Cocula",
+              "bx-bus-school 2"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "btn_ameca2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "321.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "160.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "80.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 12",
+              "Etzatlán",
+              "bx-bus-school 3"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "btn_ameca3",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "409.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "160.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "80.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 13",
+              "Teuchitlán",
+              "bx-bus-school 4"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "btn_ameca4",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "497.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "160.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "80.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 14",
+              "Acatlán",
+              "bx-bus-school 5"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "btn_sanmartin",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "184.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "145.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "160.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "80.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 15",
+              "San Martín",
+              "bx-bus-school 6"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "btn_sanmartin1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "184.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "233.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "160.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "80.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 16",
+              "Tequila",
+              "bx-bus-school 7"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "btn_sanmartin2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "184.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "321.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "160.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "80.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 17",
+              "Magdalena",
+              "bx-bus-school 8"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "btn_sanmartin3",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "184.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "409.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "160.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "80.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 18",
+              "Tala",
+              "bx-bus-school 9"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "btn_sanmartin4",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "184.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "497.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "160.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "80.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 19",
+              "Tecolotlán",
+              "bx-bus-school 10"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Elige tu comunidad",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "81.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "97.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Elige tu comunidad ",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "24.0",
+            "line-height": "1.2102272510528564",
+            "typeface": "Inter"
+          },
+          {
+            "id": "bx-map-pin 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "24.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "97.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector36",
+              "Vector37"
+            ]
+          },
+          {
+            "id": "Vector",
+            "margin": {
+              "left": "8.0",
+              "top": "12.0",
+              "right": "8.0",
+              "bottom": "12.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector.svg"
+          },
+          {
+            "id": "Vector1",
+            "margin": {
+              "left": "13.865478515625",
+              "top": "13.126708984375",
+              "right": "13.14971923828125",
+              "bottom": "13.88848876953125"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector1.svg"
+          },
+          {
+            "id": "Vector2",
+            "margin": {
+              "left": "15.35260009765625",
+              "top": "23.011444091796875",
+              "right": "14.34661865234375",
+              "bottom": "1.65020751953125"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector2.svg"
+          },
+          {
+            "id": "Vector3",
+            "margin": {
+              "left": "13.04339599609375",
+              "top": "11.217620849609375",
+              "right": "13.8629150390625",
+              "bottom": "14.119903564453125"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector3.svg"
+          },
+          {
+            "id": "Vector4",
+            "margin": {
+              "left": "8.37445068359375",
+              "top": "28.07366943359375",
+              "right": "7.43157958984375"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector4.svg"
+          },
+          {
+            "id": "Vector5",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector5.svg"
+          },
+          {
+            "id": "Rectangle 10",
+            "border-radius": "16.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "160.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "80.0"
+              }
+            },
+            "vector-content": "rectangle_10.svg"
+          },
+          {
+            "id": "Ameca",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "32.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "25.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Ameca",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "24.0",
+            "line-height": "1.2102272510528564",
+            "typeface": "Inter"
+          },
+          {
+            "id": "bx-bus-school 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "4.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "28.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector6",
+              "Vector7",
+              "Vector8"
+            ]
+          },
+          {
+            "id": "Vector6",
+            "margin": {
+              "left": "2.0",
+              "top": "2.0",
+              "right": "1.9949951171875",
+              "bottom": "2.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector6.svg"
+          },
+          {
+            "id": "Vector7",
+            "margin": {
+              "left": "5.0",
+              "top": "14.0",
+              "right": "16.0",
+              "bottom": "7.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector7.svg"
+          },
+          {
+            "id": "Vector8",
+            "margin": {
+              "left": "16.0",
+              "top": "14.0",
+              "right": "5.0",
+              "bottom": "7.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector8.svg"
+          },
+          {
+            "id": "Rectangle 11",
+            "border-radius": "16.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "160.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "80.0"
+              }
+            },
+            "vector-content": "rectangle_11.svg"
+          },
+          {
+            "id": "Cocula",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "32.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "25.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Cocula",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "24.0",
+            "line-height": "1.2102272510528564",
+            "typeface": "Inter"
+          },
+          {
+            "id": "bx-bus-school 2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "4.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "28.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector9",
+              "Vector10",
+              "Vector11"
+            ]
+          },
+          {
+            "id": "Vector9",
+            "margin": {
+              "left": "2.0",
+              "top": "2.0",
+              "right": "1.9949951171875",
+              "bottom": "2.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector9.svg"
+          },
+          {
+            "id": "Vector10",
+            "margin": {
+              "left": "5.0",
+              "top": "14.0",
+              "right": "16.0",
+              "bottom": "7.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector10.svg"
+          },
+          {
+            "id": "Vector11",
+            "margin": {
+              "left": "16.0",
+              "top": "14.0",
+              "right": "5.0",
+              "bottom": "7.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector11.svg"
+          },
+          {
+            "id": "Rectangle 12",
+            "border-radius": "16.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "160.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "80.0"
+              }
+            },
+            "vector-content": "rectangle_12.svg"
+          },
+          {
+            "id": "Etzatlán",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "32.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "25.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Etzatlán",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "24.0",
+            "line-height": "1.2102272510528564",
+            "typeface": "Inter"
+          },
+          {
+            "id": "bx-bus-school 3",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "4.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "28.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector12",
+              "Vector13",
+              "Vector14"
+            ]
+          },
+          {
+            "id": "Vector12",
+            "margin": {
+              "left": "2.0",
+              "top": "2.0",
+              "right": "1.9949951171875",
+              "bottom": "2.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector12.svg"
+          },
+          {
+            "id": "Vector13",
+            "margin": {
+              "left": "5.0",
+              "top": "14.0",
+              "right": "16.0",
+              "bottom": "7.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector13.svg"
+          },
+          {
+            "id": "Vector14",
+            "margin": {
+              "left": "16.0",
+              "top": "14.0",
+              "right": "5.0",
+              "bottom": "7.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector14.svg"
+          },
+          {
+            "id": "Rectangle 13",
+            "border-radius": "16.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "160.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "80.0"
+              }
+            },
+            "vector-content": "rectangle_13.svg"
+          },
+          {
+            "id": "Teuchitlán",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "32.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "25.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Teuchitlán",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "24.0",
+            "line-height": "1.2102272510528564",
+            "typeface": "Inter"
+          },
+          {
+            "id": "bx-bus-school 4",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "4.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "28.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector15",
+              "Vector16",
+              "Vector17"
+            ]
+          },
+          {
+            "id": "Vector15",
+            "margin": {
+              "left": "2.0",
+              "top": "2.0",
+              "right": "1.9949951171875",
+              "bottom": "2.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector15.svg"
+          },
+          {
+            "id": "Vector16",
+            "margin": {
+              "left": "5.0",
+              "top": "14.0",
+              "right": "16.0",
+              "bottom": "7.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector16.svg"
+          },
+          {
+            "id": "Vector17",
+            "margin": {
+              "left": "16.0",
+              "top": "14.0",
+              "right": "5.0",
+              "bottom": "7.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector17.svg"
+          },
+          {
+            "id": "Rectangle 14",
+            "border-radius": "16.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "160.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "80.0"
+              }
+            },
+            "vector-content": "rectangle_14.svg"
+          },
+          {
+            "id": "Acatlán",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "32.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "25.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Acatlán",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "24.0",
+            "line-height": "1.2102272510528564",
+            "typeface": "Inter"
+          },
+          {
+            "id": "bx-bus-school 5",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "4.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "28.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector18",
+              "Vector19",
+              "Vector20"
+            ]
+          },
+          {
+            "id": "Vector18",
+            "margin": {
+              "left": "2.0",
+              "top": "2.0",
+              "right": "1.9949951171875",
+              "bottom": "2.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector18.svg"
+          },
+          {
+            "id": "Vector19",
+            "margin": {
+              "left": "5.0",
+              "top": "14.0",
+              "right": "16.0",
+              "bottom": "7.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector19.svg"
+          },
+          {
+            "id": "Vector20",
+            "margin": {
+              "left": "16.0",
+              "top": "14.0",
+              "right": "5.0",
+              "bottom": "7.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector20.svg"
+          },
+          {
+            "id": "Rectangle 15",
+            "border-radius": "16.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "160.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "80.0"
+              }
+            },
+            "vector-content": "rectangle_15.svg"
+          },
+          {
+            "id": "San Martín",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "32.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "25.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "San Martín",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "24.0",
+            "line-height": "1.2102272510528564",
+            "typeface": "Inter"
+          },
+          {
+            "id": "bx-bus-school 6",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "4.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "28.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector21",
+              "Vector22",
+              "Vector23"
+            ]
+          },
+          {
+            "id": "Vector21",
+            "margin": {
+              "left": "2.0",
+              "top": "2.0",
+              "right": "1.9949951171875",
+              "bottom": "2.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector21.svg"
+          },
+          {
+            "id": "Vector22",
+            "margin": {
+              "left": "5.0",
+              "top": "14.0",
+              "right": "16.0",
+              "bottom": "7.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector22.svg"
+          },
+          {
+            "id": "Vector23",
+            "margin": {
+              "left": "16.0",
+              "top": "14.0",
+              "right": "5.0",
+              "bottom": "7.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector23.svg"
+          },
+          {
+            "id": "Rectangle 16",
+            "border-radius": "16.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "160.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "80.0"
+              }
+            },
+            "vector-content": "rectangle_16.svg"
+          },
+          {
+            "id": "Tequila",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "32.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "25.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Tequila",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "24.0",
+            "line-height": "1.2102272510528564",
+            "typeface": "Inter"
+          },
+          {
+            "id": "bx-bus-school 7",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "4.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "28.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector24",
+              "Vector25",
+              "Vector26"
+            ]
+          },
+          {
+            "id": "Vector24",
+            "margin": {
+              "left": "2.0",
+              "top": "2.0",
+              "right": "1.9949951171875",
+              "bottom": "2.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector24.svg"
+          },
+          {
+            "id": "Vector25",
+            "margin": {
+              "left": "5.0",
+              "top": "14.0",
+              "right": "16.0",
+              "bottom": "7.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector25.svg"
+          },
+          {
+            "id": "Vector26",
+            "margin": {
+              "left": "16.0",
+              "top": "14.0",
+              "right": "5.0",
+              "bottom": "7.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector26.svg"
+          },
+          {
+            "id": "Rectangle 17",
+            "border-radius": "16.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "160.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "80.0"
+              }
+            },
+            "vector-content": "rectangle_17.svg"
+          },
+          {
+            "id": "Magdalena",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "32.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "25.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Magdalena",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "24.0",
+            "line-height": "1.2102272510528564",
+            "typeface": "Inter"
+          },
+          {
+            "id": "bx-bus-school 8",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "4.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "28.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector27",
+              "Vector28",
+              "Vector29"
+            ]
+          },
+          {
+            "id": "Vector27",
+            "margin": {
+              "left": "2.0",
+              "top": "2.0",
+              "right": "1.9949951171875",
+              "bottom": "2.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector27.svg"
+          },
+          {
+            "id": "Vector28",
+            "margin": {
+              "left": "5.0",
+              "top": "14.0",
+              "right": "16.0",
+              "bottom": "7.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector28.svg"
+          },
+          {
+            "id": "Vector29",
+            "margin": {
+              "left": "16.0",
+              "top": "14.0",
+              "right": "5.0",
+              "bottom": "7.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector29.svg"
+          },
+          {
+            "id": "Rectangle 18",
+            "border-radius": "16.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "160.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "80.0"
+              }
+            },
+            "vector-content": "rectangle_18.svg"
+          },
+          {
+            "id": "Tala",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "32.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "25.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Tala",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "24.0",
+            "line-height": "1.2102272510528564",
+            "typeface": "Inter"
+          },
+          {
+            "id": "bx-bus-school 9",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "4.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "28.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector30",
+              "Vector31",
+              "Vector32"
+            ]
+          },
+          {
+            "id": "Vector30",
+            "margin": {
+              "left": "2.0",
+              "top": "2.0",
+              "right": "1.9949951171875",
+              "bottom": "2.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector30.svg"
+          },
+          {
+            "id": "Vector31",
+            "margin": {
+              "left": "5.0",
+              "top": "14.0",
+              "right": "16.0",
+              "bottom": "7.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector31.svg"
+          },
+          {
+            "id": "Vector32",
+            "margin": {
+              "left": "16.0",
+              "top": "14.0",
+              "right": "5.0",
+              "bottom": "7.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector32.svg"
+          },
+          {
+            "id": "Rectangle 19",
+            "border-radius": "16.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "160.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "80.0"
+              }
+            },
+            "vector-content": "rectangle_19.svg"
+          },
+          {
+            "id": "Tecolotlán",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "32.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "25.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Tecolotlán",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "24.0",
+            "line-height": "1.2102272510528564",
+            "typeface": "Inter"
+          },
+          {
+            "id": "bx-bus-school 10",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "4.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "28.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector33",
+              "Vector34",
+              "Vector35"
+            ]
+          },
+          {
+            "id": "Vector33",
+            "margin": {
+              "left": "2.0",
+              "top": "2.0",
+              "right": "1.9949951171875",
+              "bottom": "2.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector33.svg"
+          },
+          {
+            "id": "Vector34",
+            "margin": {
+              "left": "5.0",
+              "top": "14.0",
+              "right": "16.0",
+              "bottom": "7.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector34.svg"
+          },
+          {
+            "id": "Vector35",
+            "margin": {
+              "left": "16.0",
+              "top": "14.0",
+              "right": "5.0",
+              "bottom": "7.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector35.svg"
+          },
+          {
+            "id": "Vector36",
+            "margin": {
+              "left": "13.33331298828125",
+              "top": "3.3333282470703125",
+              "right": "13.3333740234375",
+              "bottom": "11.666671752929688"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector36.svg"
+          },
+          {
+            "id": "Vector37",
+            "margin": {
+              "left": "3.33331298828125",
+              "top": "17.60333251953125",
+              "right": "3.3333740234375",
+              "bottom": "3.3333282470703125"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector37.svg"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "INICIO",
+      "size": {
+        "width": 360.0,
+        "height": 640.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}
